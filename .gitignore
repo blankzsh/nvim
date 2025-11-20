@@ -41,6 +41,14 @@ init.vim.bak
 init.lua.backup
 lua/packinit.lua.backup
 
+# 压缩文件和归档
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+nvim.zip
+
 # 历史文件
 [viminfo]
 .netrwhist
