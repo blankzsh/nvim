@@ -28,41 +28,11 @@
   <a href="https://github.com/blankzsh/nvim/stargazers">
     <img src="https://img.shields.io/github/stars/blankzsh/nvim?style=for-the-badge&logo=github" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/blankzsh/nvim/forks">
-    <img src="https://img.shields.io/github/forks/blankzsh/nvim?style=for-the-badge&logo=github" alt="GitHub Forks">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/blankzsh/nvim/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/blankzsh/nvim?style=for-the-badge" alt="License">
-  </a>
-  <a href="https://github.com/blankzsh/nvim/commits/master">
-    <img src="https://img.shields.io/github/last-commit/blankzsh/nvim?style=for-the-badge" alt="Last Commit">
-  </a>
-  <a href="https://github.com/blankzsh/nvim/issues">
-    <img src="https://img.shields.io/github/issues/blankzsh/nvim?style=for-the-badge" alt="Issues">
-  </a>
-  <a href="https://github.com/blankzsh/nvim/pulls">
-    <img src="https://img.shields.io/github/issues-pr/blankzsh/nvim?style=for-the-badge" alt="Pull Requests">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua" alt="Lua">
-  <img src="https://img.shields.io/badge/VimScript-green.svg?style=for-the-badge&logo=vim" alt="VimScript">
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge" alt="Status">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Features-LSP%20%F0%9F%94%A7%20%7C%20Treesitter%20%F0%9F%8C%B2%20%7C%20Multi%20Cursor%20%F0%9F%92%AA%20%7C%20Markdown%20%F0%9F%93%9D-informational.svg?style=for-the-badge" alt="Features">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Config-Modular-orange.svg?style=for-the-badge" alt="Config Style">
-  <img src="https://img.shields.io/badge/Startup-Fast-brightgreen.svg?style=for-the-badge" alt="Startup Speed">
-  <img src="https://img.shields.io/badge/Plugins-40%2B-blue.svg?style=for-the-badge" alt="Plugin Count">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg?style=for-the-badge" alt="Platform">
 </p>
 
 ---
