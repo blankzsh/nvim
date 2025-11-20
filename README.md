@@ -1,5 +1,3 @@
-![nvimyes](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&vCenter=true&width=435&height=45&lines=NVIM+YES)
-
 <!-- Forked from original repository -->
 <div align="center">
   <blockquote>
@@ -39,14 +37,18 @@
 
 <!-- markdown-toc GitLab -->
 
-* [如何使用](#如何使用)
-* [配置结构](#配置结构)
-* [lua/profile.lua 通用基础配置说明](#luaprofilelua-通用基础配置说明)
-* [lua/keymap.lua 快捷键相关配置说明](#luakeymaplua-快捷键相关配置说明)
-* [lua/plugins/ 插件配置说明](#luaplugins-插件配置说明)
-* [lua/pack/ 兼容性配置说明](#luapack-兼容性配置说明)
-* [插件说明以及键位绑定](#插件说明以及键位绑定)
-* [Support: buy me a coffee](#support-buy-me-a-coffee)
+- [如何使用](#如何使用)
+- [配置结构](#配置结构)
+- [lua/profile.lua 通用基础配置说明](#luaprofilelua-通用基础配置说明)
+- [lua/keymap.lua 快捷键相关配置说明](#luakeymaplua-快捷键相关配置说明)
+- [lua/plugins/ 插件配置说明](#luaplugins-插件配置说明)
+  - [lazy.nvim 插件管理器](#lazynvim-插件管理器)
+- [lua/pack/ 兼容性配置说明](#luapack-兼容性配置说明)
+- [插件说明以及键位绑定](#插件说明以及键位绑定)
+- [🙏 致谢](#-致谢)
+  - [原作者](#原作者)
+  - [主要改进](#主要改进)
+  - [相关项目](#相关项目)
 
 <!-- markdown-toc -->
 
@@ -510,6 +512,3 @@ PS: 如果需要格式化js和ts代码，请手动安装: npm i js-beautify -g
 - [lazy.nvim](https://github.com/folke/lazy.nvim) - 现代化的 Neovim 插件管理器
 - [Neovim](https://neovim.io/) - 现代化的 Vim 编辑器
 
----
-
-## Support: buy me a coffee
