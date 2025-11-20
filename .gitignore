@@ -1,0 +1,65 @@
+# 临时文件和缓存
+.netrwhist
+**/*.swp
+**/*.swo
+**/*~
+**/tags
+**/TAGS
+
+# IDE 配置文件
+.idea/
+.vscode/
+*.sublime-*
+
+# 日志文件
+logs/
+log/
+*.log
+**/dump.rdb
+
+# 系统文件
+**/.DS_Store
+Thumbs.db
+
+# 插件目录（旧 packer）
+plugged/
+pack/
+
+# 插件目录（新 lazy.nvim）
+site/pack/lazy/
+lazy-lazy/
+
+# 编译和缓存文件
+plugin/packer_compiled.lua
+**/lua/**/*.luac
+cache/
+
+# 备份文件
+*.backup
+*.bak
+init.vim.bak
+init.lua.backup
+lua/packinit.lua.backup
+
+# 历史文件
+[viminfo]
+.netrwhist
+
+# 临时会话文件
+Session.vim
+Sessionx.vim
+
+# 本地配置覆盖
+local.lua
+local.vim
+
+# 测试和覆盖率报告
+coverage/
+*.prof
+
+# 调试文件
+.debug/
+
+# 其他
+*.orig
+*.rej
