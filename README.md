@@ -1,5 +1,23 @@
 ![nvimyes](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&vCenter=true&width=435&height=45&lines=NVIM+YES)
 
+<!-- Forked from original repository -->
+<div align="center">
+  <blockquote>
+    <p>
+      <strong>🍴 Forked from:</strong>
+      <a href="https://github.com/yaocccc/nvim">
+        <code>yaocccc/nvim</code>
+      </a> |
+      <strong>🚀 Upgraded with:</strong>
+      <a href="https://github.com/folke/lazy.nvim">
+        <code>lazy.nvim</code>
+      </a>
+      <br>
+      <em>此项目基于 yaocccc/nvim 的优秀配置，并进行了现代化升级和功能增强</em>
+    </p>
+  </blockquote>
+</div>
+
 <p align="center">
   <a href="https://neovim.io/">
     <img src="https://img.shields.io/badge/NeoVim-0.9+-green.svg?style=for-the-badge&logo=neovim" alt="Neovim Version">
@@ -7,26 +25,26 @@
   <a href="https://github.com/folke/lazy.nvim">
     <img src="https://img.shields.io/badge/Plugin%20Manager-lazy.nvim-blue.svg?style=for-the-badge&logo=github" alt="Plugin Manager">
   </a>
-  <a href="https://github.com/yaocccc/nvim/stargazers">
-    <img src="https://img.shields.io/github/stars/yaocccc/nvim?style=for-the-badge&logo=github" alt="GitHub Stars">
+  <a href="https://github.com/blankzsh/nvim/stargazers">
+    <img src="https://img.shields.io/github/stars/blankzsh/nvim?style=for-the-badge&logo=github" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/yaocccc/nvim/forks">
-    <img src="https://img.shields.io/github/forks/yaocccc/nvim?style=for-the-badge&logo=github" alt="GitHub Forks">
+  <a href="https://github.com/blankzsh/nvim/forks">
+    <img src="https://img.shields.io/github/forks/blankzsh/nvim?style=for-the-badge&logo=github" alt="GitHub Forks">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yaocccc/nvim/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/yaocccc/nvim?style=for-the-badge" alt="License">
+  <a href="https://github.com/blankzsh/nvim/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/blankzsh/nvim?style=for-the-badge" alt="License">
   </a>
-  <a href="https://github.com/yaocccc/nvim/commits/master">
-    <img src="https://img.shields.io/github/last-commit/yaocccc/nvim?style=for-the-badge" alt="Last Commit">
+  <a href="https://github.com/blankzsh/nvim/commits/master">
+    <img src="https://img.shields.io/github/last-commit/blankzsh/nvim?style=for-the-badge" alt="Last Commit">
   </a>
-  <a href="https://github.com/yaocccc/nvim/issues">
-    <img src="https://img.shields.io/github/issues/yaocccc/nvim?style=for-the-badge" alt="Issues">
+  <a href="https://github.com/blankzsh/nvim/issues">
+    <img src="https://img.shields.io/github/issues/blankzsh/nvim?style=for-the-badge" alt="Issues">
   </a>
-  <a href="https://github.com/yaocccc/nvim/pulls">
-    <img src="https://img.shields.io/github/issues-pr/yaocccc/nvim?style=for-the-badge" alt="Pull Requests">
+  <a href="https://github.com/blankzsh/nvim/pulls">
+    <img src="https://img.shields.io/github/issues-pr/blankzsh/nvim?style=for-the-badge" alt="Pull Requests">
   </a>
 </p>
 
@@ -64,10 +82,12 @@
 
 ## 如何使用
 
+> 💡 **注意：** 此项目是基于 [yaocccc/nvim](https://github.com/yaocccc/nvim) 的 Fork 版本，主要升级了插件管理器到 lazy.nvim 并进行了功能增强。
+
 1. 将项目clone至 ~/.config/nvim 目录中(注意备份好自己的配置)
     ```plaintext
     cd ~/.config
-    git clone https://github.com/yaocccc/nvim
+    git clone https://github.com/blankzsh/nvim
     ```
 2. 启动vim 等待自动安装lazy.nvim(包管理工具、如果你没有安装的话) 会自动安装所有插件
 
@@ -502,3 +522,24 @@ PS: 如果需要格式化js和ts代码，请手动安装: npm i js-beautify -g
   在signcolumn显示折叠信息 如果你使用折叠的话
 
 </details>
+
+---
+
+## 🙏 致谢
+
+### 原作者
+- **[yaocccc/nvim](https://github.com/yaocccc/nvim)** - 感谢原作者提供了优秀的 Neovim 配置基础，这是一个功能丰富且实用的配置模板。
+
+### 主要改进
+- 🚀 **插件管理器升级**: 从 packer.nvim 迁移到 lazy.nvim，享受更快的启动速度
+- 📚 **文档完善**: 添加详细的使用说明和插件介绍
+- 🎨 **视觉效果**: 添加项目徽章，提升文档专业度
+- 🔧 **配置优化**: 模块化插件配置，便于管理和维护
+
+### 相关项目
+- [lazy.nvim](https://github.com/folke/lazy.nvim) - 现代化的 Neovim 插件管理器
+- [Neovim](https://neovim.io/) - 现代化的 Vim 编辑器
+
+---
+
+## Support: buy me a coffee
